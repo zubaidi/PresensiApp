@@ -1,6 +1,6 @@
 package com.codepelita.presensiapp
 
-data class DataPresensi (
+data class ResultPresensi (
 
     val nis: Int,
     val nama_siswa: String?,
